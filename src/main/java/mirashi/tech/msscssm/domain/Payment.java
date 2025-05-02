@@ -1,6 +1,5 @@
 package mirashi.tech.msscssm.domain;
 
-import jdk.jfr.DataAmount;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
